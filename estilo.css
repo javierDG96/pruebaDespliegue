@@ -1,0 +1,17 @@
+body {
+ background-image: url("./imagenes/indice.jpeg");
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+.color{
+    background-color: #020100;
+}
+.letra{
+    color: #F90514;
+
+}
+.posicion{
+bottom: 0;
+display: block;
+position: absolute;
+}
